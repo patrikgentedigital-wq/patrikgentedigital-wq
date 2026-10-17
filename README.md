@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Patrick Furtado</h1>
 
-<!--
-**patrikgentedigital-wq/patrikgentedigital-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>Líder técnico · Gente Digital</em></p>
 
-Here are some ideas to get you started:
+<p align="center">Automação, integrações e sistemas para provedor de internet.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+Sou líder técnico na **Gente Digital**, um provedor de internet. Cuido de automações, integrações entre sistemas e das ferramentas que mantêm o atendimento e a operação funcionando.
+
+## Stack
+
+`TypeScript`
+
+## Projetos
+
+| Repositório | Descrição |
+| --- | --- |
+| [gente-digital](https://github.com/patrikgentedigital-wq/gente-digital) | Projeto em TypeScript |
+| [Gente-Digital-](https://github.com/patrikgentedigital-wq/Gente-Digital-) | Indique e ganhe |
+| [Financeiro](https://github.com/patrikgentedigital-wq/Financeiro) | Financeiro |
+| [Estudos-Eyshila](https://github.com/patrikgentedigital-wq/Estudos-Eyshila) | Eyshila |
